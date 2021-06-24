@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jolenechong
 - 👀 I’m interested in webdevelopment with HTML,CSS and JS
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on any webdevelopmet projects
+- 💞️ I’m looking to collaborate on any webdevelopment projects
 - 📫 How to reach me via  email at jolenechong7@gmail.com
 
 <!---
