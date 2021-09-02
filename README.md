@@ -8,7 +8,8 @@ Hi! I'm Jolene a Front-end Developer looking to become a Fullstack Developer.
 <img src="https://i.ibb.co/bXFNvCy/tech-Stack.png" alt="tech-Stack">
 
 ## ⚡ Currently Learning ⚡
-<img src="https://i.ibb.co/xMRx4v6/learning.png" alt="learning">
+- NodeJS
+- Python Django
 
 ## ⚡ Where to find me ⚡
 <a href='https://www.linkedin.com/in/jolenechong7/'><img src="https://i.ibb.co/Qp5qQJQ/linkedin.png" alt="linkedin"></a> LinkedIn
