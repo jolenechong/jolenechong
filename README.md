@@ -13,5 +13,5 @@ Hi! I'm Jolene a Front-end Developer looking to become a Fullstack Developer.
 
 ## ⚡ Where to find me ⚡
 <a href='https://www.linkedin.com/in/jolenechong7/'><img src="https://i.ibb.co/Qp5qQJQ/linkedin.png" alt="linkedin"></a>
-<a href="mailto:jolenechong7@gmail.com"><img src="https://i.ibb.co/HXtDRRC/gmail.png" alt="gmail"></a>
-<a href="https://github.com/jolenechong"><img src="https://i.ibb.co/0tg7RPj/github.png" alt="github"></a>
+<a href="mailto:jolenechong7@gmail.com"><img src="https://i.ibb.co/3MR68PS/gmail.png" alt="gmail"></a>
+<a href="https://github.com/jolenechong"><img src="https://i.ibb.co/RQ3f5qk/github.png" alt="github"></a>
