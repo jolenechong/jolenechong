@@ -5,7 +5,7 @@ Hi! I'm Jolene a Front-end Developer looking to become a Fullstack Developer.
 <br> 📩 Contact me: [jolenechong7@gmail.com](jolenechong7@gmail.com)
 
 ## ⚡ Tech Stack ⚡
-<img src="https://i.ibb.co/bXFNvCy/tech-Stack.png" alt="tech-Stack">
+<img src="https://i.ibb.co/y4prFNY/tech-Stack.png" alt="tech-Stack">
 
 ## ⚡ Currently Learning ⚡
 - NodeJS
