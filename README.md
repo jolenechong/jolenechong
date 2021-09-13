@@ -9,7 +9,8 @@ Hi! I'm Jolene a Front-end Developer looking to become a Fullstack Developer.
 
 ## ⚡ Currently Learning ⚡
 - NodeJS
-- Python Django
+- Flask
+- Machine Learning Concepts
 
 ## ⚡ Where to find me ⚡
 <a href='https://www.linkedin.com/in/jolenechong7/'><img src="https://i.ibb.co/Qp5qQJQ/linkedin.png" alt="linkedin"></a> LinkedIn
