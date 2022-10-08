@@ -3,9 +3,6 @@ Hi! I'm Jolene a Full-stack Developer also interested in Data Science.
 <br> 🌐 Portfolio: https://jolenechong.netlify.app
 <br> 🖥️ Open Source Projects: https://github.com/jolenechong
 <br> 📩 Contact me: [jolenechong7@gmail.com](jolenechong7@gmail.com)
-<br><br>
-[![Jolene's GitHub stats](https://github-readme-stats.vercel.app/api?username=jolenechong&hide=prs,issues&theme=radical&show_icons=true&count_private=true&line_height=30)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jolenechong&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## ⚡ Tech Stack ⚡
@@ -14,7 +11,6 @@ Hi! I'm Jolene a Full-stack Developer also interested in Data Science.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 Frameworks:<br>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
