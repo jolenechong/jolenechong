@@ -1,6 +1,7 @@
 ## ⚡ Welcome ⚡
 Hi! I'm Jolene a Full-stack Developer also interested in Data Science.
-<br> 🌐 Portfolio: https://jolenechong.netlify.app
+<br> 🌐 Portfolio: 
+https://jolenechong.pages.dev/
 <br> 🖥️ Open Source Projects: https://github.com/jolenechong
 <br> 📩 Contact me: [jolenechong7@gmail.com](jolenechong7@gmail.com)
 
