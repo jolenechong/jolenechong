@@ -1,5 +1,5 @@
 ## ⚡ Welcome ⚡
-Hi! I'm Jolene a Software Engineer also interested in AI and Data Engineering.
+Hi! I'm Jolene a AI/Data Engineer.
 <br> 🌐 Portfolio: 
 https://jolenechong.pages.dev/
 <br> 🖥️ Open Source Projects: https://github.com/jolenechong
